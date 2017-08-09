@@ -7,7 +7,7 @@ output:
     code_folding: show
     highlight: pygments #("tango", "pygments", "kate", "zenburn", "textmate")
     self_contained: true
-    theme: cosmo #("cerulean", "journal", "flatly", "readable", "spacelab", "united", and "cosmo")
+    theme: cosmo #("cerulean", "flatly", "readable", "spacelab", "united", and "cosmo")
     toc: yes
     code_download: true
     toc_float: true
